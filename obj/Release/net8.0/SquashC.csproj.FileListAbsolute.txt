@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Release\net8.0\SquashC.exe
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Release\net8.0\SquashC.deps.json
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Release\net8.0\SquashC.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Release\net8.0\SquashC.dll
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Release\net8.0\SquashC.pdb
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.dll
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\refint\SquashC.dll
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.pdb
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\SquashC.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Release\net8.0\ref\SquashC.dll

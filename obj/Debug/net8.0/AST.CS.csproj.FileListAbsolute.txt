@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Debug\net8.0\AST.CS.exe
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Debug\net8.0\AST.CS.deps.json
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Debug\net8.0\AST.CS.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Debug\net8.0\AST.CS.dll
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\bin\Debug\net8.0\AST.CS.pdb
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.dll
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\refint\AST.CS.dll
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.pdb
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\AST.CS.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Projects\squash_compiler\AST.CS\obj\Debug\net8.0\ref\AST.CS.dll
